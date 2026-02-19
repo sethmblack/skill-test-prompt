@@ -3,8 +3,9 @@ name: test-prompt
 description: Validate prompts included in the book by running them against test cases and verifying they produce expected outputs.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5156
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - test-prompt
 - writing
